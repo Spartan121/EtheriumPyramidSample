@@ -1,7 +1,7 @@
 # EtheriumPyramidSample
-Solidity smart contract based on pyramid scheme of distribution with comission to owner of contract
+**Solidity smart contract based on pyramid scheme of distribution with comission to owner of contract**
 
-Solidity ver 0.2.1.
+_Solidity ver 0.2.1._
 
 Sends value of sender transaction with multiply percents if it has proper balance.
 There are two rows: senders and payers
